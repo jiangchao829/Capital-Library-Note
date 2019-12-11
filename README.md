@@ -1,2 +1,2 @@
-# JiangChaoSlideGesture
-嗯
+# 首都图书馆日记
+此工程的wiki当作记录首都图书馆日记来用吧
